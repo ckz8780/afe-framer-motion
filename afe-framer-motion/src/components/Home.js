@@ -1,10 +1,17 @@
 import React from 'react'
+import { Jumbotron, Container, Button } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
-    <div>
-      <h1>Homepage</h1>
-    </div>
+    <Jumbotron fluid className="bg-info text-light">
+      <Container>
+        <h1 className="display-1">Homepage</h1>
+        <Link to="/layout">
+          <Button variant="outline-light">Continue</Button>
+        </Link>
+      </Container>
+    </Jumbotron>
   )
 }
 

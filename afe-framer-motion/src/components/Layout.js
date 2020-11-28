@@ -1,10 +1,17 @@
 import React from 'react'
+import { Jumbotron, Container, Button } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 function Layout() {
   return (
-    <div>
-      <h1>Layout</h1>
-    </div>
+    <Jumbotron fluid className="bg-success text-light">
+      <Container>
+        <h1 className="display-1">Layout</h1>
+        <Link to="/routing">
+          <Button variant="outline-light">Continue</Button>
+        </Link>
+      </Container>
+    </Jumbotron>
   )
 }
 
