@@ -9,7 +9,7 @@ const headingVariants = {
     opacity: 1,
     transition: {
       when: 'beforeChildren',
-      duration: 1,
+      duration: 0.5,
       staggerChildren: 0.1,
     }
   },
@@ -21,8 +21,8 @@ const spanVariants = {
   },
   after: {
     color: ['#000', '#f00', '#00f'],
-    fontWeight: 900,
     transition: {
+      duration: 2,
       yoyo: Infinity
     }
   }
