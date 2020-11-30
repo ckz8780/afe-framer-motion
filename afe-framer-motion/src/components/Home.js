@@ -14,6 +14,16 @@ function Home() {
         >
           Homepage
         </motion.h1>
+        <motion.h4
+          className="mb-5"
+          initial={{ y: '-100vh' }}
+          animate={{ y: 0 }}
+          transition={{
+            delay: 1
+          }}
+        >
+          What a fancy homepage!
+        </motion.h4>
         <Link to="/layout">
           <Button
             as={motion.button}
