@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/afe-framer-motion/static/css/main.a2d96475.chunk.css",
+    "main.js": "/afe-framer-motion/static/js/main.352273b5.chunk.js",
+    "main.js.map": "/afe-framer-motion/static/js/main.352273b5.chunk.js.map",
+    "runtime-main.js": "/afe-framer-motion/static/js/runtime-main.cc0d9f69.js",
+    "runtime-main.js.map": "/afe-framer-motion/static/js/runtime-main.cc0d9f69.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/afe-framer-motion/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b4a03a94.chunk.js": "/afe-framer-motion/static/js/2.b4a03a94.chunk.js",
+    "static/js/2.b4a03a94.chunk.js.map": "/afe-framer-motion/static/js/2.b4a03a94.chunk.js.map",
+    "static/js/3.61dc3a69.chunk.js": "/afe-framer-motion/static/js/3.61dc3a69.chunk.js",
+    "static/js/3.61dc3a69.chunk.js.map": "/afe-framer-motion/static/js/3.61dc3a69.chunk.js.map",
+    "index.html": "/afe-framer-motion/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/afe-framer-motion/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.a2d96475.chunk.css.map": "/afe-framer-motion/static/css/main.a2d96475.chunk.css.map",
+    "static/js/2.b4a03a94.chunk.js.LICENSE.txt": "/afe-framer-motion/static/js/2.b4a03a94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0d9f69.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b4a03a94.chunk.js",
+    "static/css/main.a2d96475.chunk.css",
+    "static/js/main.352273b5.chunk.js"
+  ]
+}
